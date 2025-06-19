@@ -9,7 +9,7 @@ This project is a **Resume Parser** with a user-friendly GUI built using **Tkint
 - 🔐 Simple login system
 - 📄 Supports both `.docx` and `.pdf` file formats
 - 🧠 Extracts:
-  - Full Name
+  - Name
   - Skills
   - Educational Qualifications
   - Email Address
