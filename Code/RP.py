@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import ttk
 import tkinter.messagebox as mb
 from tkinter import ttk
-import sqlite3
 from tkinter import filedialog as fd    
 import os                                
 import shutil
